@@ -1,1 +1,1 @@
-# secure-ai
+# SIIM-ACR Pneumothorax Segmentation 
