@@ -16,7 +16,6 @@ import glob
 inputdir = 'dicom-images-test'
 outdir = 'output-dir'
 
-test_list = [os.path.basename(x) for x in glob.glob(inputdir + './*.dcm')]
 # get all dcm files from the test folder
 def getAllFiles(path):
     dcmFiles = []
