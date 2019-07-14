@@ -11,6 +11,7 @@ import glob
 # Create a virtual environment (https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
 # Install pydicon library (https://anaconda.org/conda-forge/pydicom)
 # https://pypi.org/project/opencv-python/
+# Reference: https://www.kaggle.com/onealbao/dicom-to-jpeg-conversion-kernel
 
 inputdir = 'dicom-images-test'
 outdir = 'output-dir'
