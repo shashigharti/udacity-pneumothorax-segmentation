@@ -7,7 +7,10 @@ import glob
 # output folder is 'output_dir'. You may change the path as per your file structure.
 
 ######### Dependencies ################
-#
+# Install conda
+# Create a virtual environment (https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
+# Install pydicon library (https://anaconda.org/conda-forge/pydicom)
+# https://pypi.org/project/opencv-python/
 
 inputdir = 'dicom-images-test'
 outdir = 'output-dir'
